@@ -1,2 +1,2 @@
 # The Web Developer Bootcamp course by Colt Steele
-## Solutions for all the course coding exercises and quizzes
+## Solutions for all the coding exercises and quizzes in the course
